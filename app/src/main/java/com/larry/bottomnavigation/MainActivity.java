@@ -1,4 +1,4 @@
-package com.larry.testpermission;
+package com.larry.bottomnavigation;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;

@@ -1,4 +1,4 @@
-package com.larry.testpermission;
+package com.larry.bottomnavigation;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
